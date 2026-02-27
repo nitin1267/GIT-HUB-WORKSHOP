@@ -1,0 +1,21 @@
+ git status
+   5 git init
+   6 git status
+   7 clear
+   8 git add testing.py
+   9 git status
+  10 git rm --cached
+  11 git status
+  12 git commit -m "added testing files"
+  13 git status
+  14 Omit --global
+  15 git commit -m "added testing files"
+  16 git config --global user.name "nitin gehlot"...
+  17 git commit -m "added testing files"
+  18 git status
+  19 clear
+  20 rm testing.py
+  21 git status
+  22 git restore testing.py
+  23 clear
+  24 git status
