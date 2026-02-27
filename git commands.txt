@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  git status
    5 git init
    6 git status
@@ -19,3 +20,6 @@
   22 git restore testing.py
   23 clear
   24 git status
+=======
+my namw is nitin
+>>>>>>> d80d43727622c3e53c5109a3976382501f5e5a01
